@@ -201,7 +201,7 @@ An online platform offering personalized tarot readings with voice interaction.
 
 **Manipal Institute of Technology** • *2022 – 2026*
 
-- **CGPA:** 7.57
+- **CGPA:** 9.57
 - **Relevant Coursework:**
   - Advanced AI Algorithms
   - Quantum Computing
