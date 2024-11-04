@@ -255,6 +255,17 @@ An online platform offering personalized tarot readings with voice interaction.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasish7ripathy&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00" alt="GitHub Activity Graph">
 </p>
 
+<p align="center">
+  <a href="http://www.github.com/debasishtripathy13"><img src="https://github-readme-stats.vercel.app/api?username=debasish7ripathy&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="debasish7ripathy's GitHub stats" /></a>
+</p>
+
+<p align="center">
+  <a href="http://www.github.com/debasish7ripathy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=debasish7ripathy&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/debasish7ripathy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasish7ripathy&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
 ---
 
 ## ⏳ Coding Activity
